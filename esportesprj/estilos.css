@@ -27,21 +27,7 @@
         text-align: right;
         height: 8%;
        }
-        .logoface{
-        width: 4.05%;
-        }
-        .ttlogo{
-         width: 4.05%;
-        }
-        .ytlogo{
-        width: 4.05%;
-        }
-        .instalogo{
-         width: 3.05%;
-        }
-        .linklogo{
-        width: 4.05%;
-        }
+       
 .ES1{
   font-family: "Goudy Bookletter 1911", sans-serif;
   text-align: center;
@@ -52,4 +38,9 @@
     text-align: center;
     line-height: 150%;
    font-size: large;
+}
+
+
+.social{
+  width: 4%;
 }
